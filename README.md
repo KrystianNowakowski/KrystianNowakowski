@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi!
+
+You can reach me by email, krystiannowakowski.public@gmail.com
 
 <!--
 **KrystianNowakowski/KrystianNowakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
